@@ -1,4 +1,6 @@
 # Summary
+- [ChatGPT 引导语大全](./index.md)
+
 # cultural
 
 - [文创类-稿件](./cultural/article.md)
